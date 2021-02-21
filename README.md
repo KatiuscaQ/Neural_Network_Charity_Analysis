@@ -52,7 +52,7 @@ The input was 43 neurons, there were three hidden layers: 80, 30, and 10 neurons
 ![](https://github.com/KatiuscaQ/Neural_Network_Charity_Analysis/blob/main/Resources/best_model.PNG)
 
 ### o	Were you able to achieve the target model performance?
-No. The target model performance was 75% or up. The highest any of the models executed in this study was 73%. 
+No. The target model performance was 75% or greater. The highest any of the models executed in this study was 73%. 
 
 ### o What steps did you take to try and increase model performance?
 
