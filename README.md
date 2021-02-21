@@ -47,7 +47,7 @@ The input features were “len(X_train[0])” which was 43 neurons. Two hidden l
 For the optimized model:
 
 Many models were executed during this study, the following is describing the features of the model with the highest accuracy:
-The input was 43 neurons, there were three hidden layers: 80, 30, and 10 neurons respectively, and all hidden layers and output layer were run with the “Sigmoid” activation function.
+The input was 43 neurons, there were three hidden layers: 80, 30, and 10 neurons respectively, and all hidden layers and output layer were ran with the “Sigmoid” activation function.
 
 ![](https://github.com/KatiuscaQ/Neural_Network_Charity_Analysis/blob/main/Resources/best_model.PNG)
 
