@@ -13,23 +13,15 @@ The data considered the target for this model was “IS_SUCCESSFUL” column.
  
 For the first try of the model the following features were taken into consideration:
 
-**-APPLICATION_TYPE** Alphabet Soup application type
-
-**-AFFILIATION** Affiliated sector of industry
-
-**-CLASSIFICATION** Government organization classification
-
-**-USE_CASE** Use case for funding
-
-**-ORGANIZATION** Organization type
-
-**-STATUS** Active status
-
-**-INCOME_AMT** Income classification
-
-**-SPECIAL_CONSIDERATIONS** Special consideration for application
-
-**-ASK_AMT** Funding amount requested
+-	**APPLICATION_TYPE** Alphabet Soup application type.
+-	**AFFILIATION** Affiliated sector of industry.
+-	**CLASSIFICATION** Government organization classification.
+-	**USE_CASE** Use case for funding.
+-	**ORGANIZATION** Organization type.
+-	**STATUS** Active status.
+-	**INCOME_AMT** Income classification.
+-	**SPECIAL_CONSIDERATIONS** Special consideration for application.
+-	**ASK_AMT** Funding amount requested.
 
 For the optimization the “SPECIAL_CONSIDERATIONS” was dropped and “ASK_AMT” was divided into bins.
 
